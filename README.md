@@ -19,3 +19,5 @@ NTGraph를 활용하여 실제 Motor의 Data를 MFC상에서 시각화를 진행
 제어기는 Cascade 구조로 설계하였으며  
 위치 제어기는 PD 제어기, 속도 제어기는 PI 제어기, 전류 제어기는 PI 제어기로 설계했습니다.  
 Anti windup을 추가하여 정상상태오차를 제거하였습니다.  
+
+https://github.com/yun-goon/RobotExperiment4-TermProject/assets/92098771/1b8c93c3-048d-4321-bc5f-749cce4fc4b9
